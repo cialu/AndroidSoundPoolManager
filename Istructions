@@ -1,0 +1,6 @@
+SoundManager
+
+Use the SoundManager class to play different sounds through SoundLoop.
+For example, in association with buttons same in SoundActivity.
+
+Remeber to put your sounds in a folder named 'raw' under the 'res' folder of your Android application.
